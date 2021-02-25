@@ -1,4 +1,4 @@
-# examvue
+# PDShop-Vuex
 
 ## Project setup
 ```
